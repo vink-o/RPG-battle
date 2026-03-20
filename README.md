@@ -1,9 +1,4 @@
 # RPG-battle
-A C++ terminal-based RPG combat engine demonstrating OOP inheritance, character state management, and file I/O.
-
-
-# RPG Battle Engine
-
 A C++ console-based simulation of a turn-based combat system. This project explores core Object-Oriented Programming (OOP) principles and character-state logic.
 
 ### Features
