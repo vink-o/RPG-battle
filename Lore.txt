@@ -1,0 +1,169 @@
+==============================
+          Calyra
+           Mage
+==============================
+
+Once a healer, now a deadly mage.
+Calyra turns her medical skills into attacks
+that pierce even the toughest defenses.
+
+HP: Low
+Damage: High Precision
+
+For players who want a balance of magic and
+medical brutality.
+
+==============================
+         Hoopslash
+           Rogue
+==============================
+
+A former basketball star turned battlefield ace.
+Speed, agility, and reflexes make him a master
+of nimble attacks.
+
+HP: Medium
+Damage: Fast Strikes
+
+For players who love dynamic and elusive combat.
+
+==============================
+          Nairos
+           Mage
+==============================
+
+Master of water, graceful and deadly.
+Controls fluid like an extension of his will,
+striking enemies like razor-sharp waves.
+
+HP: Low
+Damage: High Burst
+
+For players who want tactical, fluid magic.
+
+==============================
+          Warchef
+          Warrior
+==============================
+
+Once a chef, now a warrior wielding a pan
+as a weapon to deliver devastating,
+spice-infused attacks.
+
+HP: High
+Damage: Solid Strikes
+
+For players who love tank roles and
+“flavorful” attacks.
+
+==============================
+        Hammerstorm
+          Warrior
+==============================
+
+Master of hammers and storms. Each strike
+echoes with the force of thunder.
+
+HP: High
+Damage: Powerful Strikes
+
+For players who prefer raw, straightforward strength.
+
+==============================
+        Nightshift
+          Rogue
+==============================
+
+A chaotic wanderer to whom strange and eerie
+things constantly happen. She learned to
+turn unpredictability to her advantage.
+
+HP: Medium
+Damage: Unpredictable
+
+For players who love stealth, chaos, and surprise.
+
+==============================
+       Electra Gale
+          Warrior
+==============================
+
+Obsessed with energy and logic, she dominates
+the battlefield using wind and electricity.
+
+HP: High
+Damage: Elemental Strikes
+
+For players who want a warrior that thinks fast
+and strikes hard.
+
+==============================
+          Felina
+           Mage
+==============================
+
+A cat lover and magician. Her intelligence and
+style create elegant yet deadly attacks fueled
+by mystical feline energy.
+
+HP: Low
+Damage: Balanced Magical
+
+For players who enjoy animal-themed magic.
+
+==============================
+         Aurelia
+           Mage
+==============================
+
+Embodiment of pure light. Her faith is
+unshakable, and every spell feels like
+a divine punishment.
+
+HP: Low
+Damage: Focused Magic
+
+For players who love holy-mage style.
+
+==============================
+        Dzirabelle
+          Rogue
+==============================
+
+A sharp-tongued pharmacist with an even
+sharper mind. Her charisma and chemical
+creations make her elusive and dangerous.
+
+HP: Medium
+Damage: Poisonous Strikes
+
+For players who enjoy clever, toxic tactics.
+
+==============================
+          Codexa
+          Rogue
+==============================
+
+A programmer who sees the world as patterns.
+Her attacks are algorithmic, precise, and
+unavoidable.
+
+HP: Medium
+Damage: Logical Strikes
+
+For players who enjoy “digital coldness”
+and predictable combos.
+
+==============================
+          Fablea
+          Warrior
+==============================
+
+A lover of movies and books who stepped
+into her own story. Every strike is inspired
+by iconic scenes and epic endings.
+
+HP: High
+Damage: Dramatic Strikes
+
+For players who love epic flair and strength.
